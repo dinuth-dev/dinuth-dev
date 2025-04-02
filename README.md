@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dinuth Devinda</h1>
 <h3 align="center">A creative and skilled web developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinuth-dev&label=Profile%20views&color=0e75b6&style=flat" alt="dinuth-dev" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dinuth-dev&label=Profile%20views&color=0e75b6&style=flat" alt="dinuth-dev" /> </p>
 
 👨‍💻 All of my projects are available at [https://edindev.com/myprojects/](https://edindev.com/myprojects/)
 
