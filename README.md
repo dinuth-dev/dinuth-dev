@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinuth-dev&label=Profile%20views&color=0e75b6&style=flat" alt="dinuth-dev" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://edindev.com/myprojects/](https://edindev.com/myprojects/)
+👨‍💻 All of my projects are available at [https://edindev.com/myprojects/](https://edindev.com/myprojects/)
 
-- 📫 How to reach me **dinuth.devinda93@.gmail.com**
+📫 How to reach me **dinuth.devinda93@.gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
