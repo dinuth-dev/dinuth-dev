@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dinuth Devinda</h1>
-<h3 align="center">A creative and skilled web developer from Sri Lanka</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dinuth-dev&label=Profile%20views&color=0e75b6&style=flat" alt="dinuth-dev" /> </p>
+<h1 align="center">Hi, I'm Dinuth Devinda. 👽</h1>
+<h3 align="center">A creative and skilled web developer from Sri Lanka.</h3>
 
 <p align="center" background="#ffffff">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>
