@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dinuth Devinda. 👽</h1>
+<h1 align="center">Hi, I'm Dinuth Devinda. 🧑‍💻</h1>
 <h3 align="center">A creative and skilled web developer from Sri Lanka.</h3>
 
 <p align="center" background="#ffffff">
