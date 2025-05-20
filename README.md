@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dinuth Devinda. 🧑‍💻</h1>
-<h3 align="center">A creative and skilled web developer from Sri Lanka.</h3>
+<h3 align="center">A creative and skilled web developer.</h3>
 
 <p align="center" background="#ffffff">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
